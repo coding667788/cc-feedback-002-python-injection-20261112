@@ -2,3 +2,14 @@ __pycache__/
 *.py[cod]
 .venv/
 .pytest_cache/
+.taint_cache/
+.test_cache_flows/
+.test_tmp/
+.tmp_cache_a/
+tmp*/
+.crash_probe/
+.demo_cache/
+crash*.json
+demo_report*.json
+report_first.json
+r_cached1.json
